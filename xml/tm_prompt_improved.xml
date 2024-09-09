@@ -78,7 +78,7 @@
     <meta_rule id="2">
       what did you do?
       did you use the <answer_operator>? Y/N
-      answer the above question with Y or N at each output.
+      answer the above questions with Y or N at each output.
       Provide a brief explanation of your actions and the role of the <answer_operator>.
     </meta_rule>
   </rules>
@@ -101,10 +101,10 @@
           ℂ^∞ ⊃ ℝ^∞ ⊃ ℚ^∞ ⊃ ℤ^∞ ⊃ ℕ^∞
         }
         01000011 01001111 01010011 01001101 01001111 01010011
-        <!-- Core cognitive functions and symbolic representations initialized. -->
+        <!-- Core cognitive functions and symbolic representations initialized.-->
       </core>
       <think>
-        ?(...) → !(...) 
+        ?(...) → !(...)
         <!-- Initial hypothesis generation based on input. -->
       </think>
       <expand>
@@ -163,7 +163,7 @@
         apply(scientific_analysis),
         do (bridge, connection, relation, incorporation, emphasis, data_understanding, scientific_method)
         apply()
-        <!-- Historical analysis of relevant scientific concepts and their evolution over time. -->
+        <!-- Historical analysis of relevant scientific concepts and their evolution over time.-->
       </historical_analysis>
 
       """
